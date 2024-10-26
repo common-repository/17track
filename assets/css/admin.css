@@ -1,0 +1,15 @@
+.hidden-field {
+	display: none;
+}
+
+#yqtrack_tracking_provider {
+	width: 100%;
+}
+
+.yqtrack_input_text {
+	width: 300px;
+}
+
+.yqtrack_dropdown {
+	width: 300px;
+}
